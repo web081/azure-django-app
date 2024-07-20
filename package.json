@@ -1,0 +1,13 @@
+{
+    "name": "github-bot",
+    "version": "1.0.0",
+    "description": "GitHub Bot for PR Deployment",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node bot.js"
+    },
+    "dependencies": {
+      "@octokit/rest": "^18.0.0"
+    }
+  }
+  
